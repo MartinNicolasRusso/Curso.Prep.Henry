@@ -254,7 +254,6 @@ function continueStatement(numero) {
   let array2=[];
   let sum=numero;
   for(var i = 0 ; i<10 ;i++){
-
 if(i===5){
   continue;
 }else{
